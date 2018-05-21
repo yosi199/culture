@@ -13,6 +13,13 @@ import dagger.android.AndroidInjector
 import dagger.android.support.DaggerAppCompatActivity
 import javax.inject.Inject
 
+/**
+ *  This is a bit of an overkill - the task is simple yet I wanted to demonstrate proficiency in all relevant
+ *  technologies and libraries we've discussed in the interview.
+ *
+ *  In this project you can find use of Dependency Injection using Dagger2, networking using RxJava and Retrofit,
+ *  ViewModel and LiveData and of course - Kotlin
+ */
 class MainActivity : DaggerAppCompatActivity() {
 
     @Inject
