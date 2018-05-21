@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_image_dimen">32dp</dimen>
+    <dimen name="text_size_title">18sp</dimen>
+    <dimen name="text_size_category">17sp</dimen>
+    <dimen name="spacing">16dp</dimen>
+    <dimen name="text_size_writer">16sp</dimen>
+    <dimen name="image_height">219dp</dimen>
+
+</resources>

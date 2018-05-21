@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">culture</string>
+    <string name="go_to_articles">Go to articles</string>
+    <string name="base_url">https://cdn.theculturetrip.com/</string>
+</resources>
